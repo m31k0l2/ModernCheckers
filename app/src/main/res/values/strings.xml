@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Новые шашки</string>
+    <string name="play_white">Играть белыми</string>
+    <string name="play_black">Играть чёрными</string>
+</resources>
